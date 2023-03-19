@@ -1,0 +1,123 @@
+
+body{
+    background-color: black!important;
+    color: white!important;
+   
+}
+/* navs*/ 
+.navbar.navbar-expand-lg.bg-body-tertiary{
+    padding:0;
+}
+.container-fluid{
+    background-color: yellow!important;
+    color: black !important;
+    padding: 1%;
+}
+.nav-link{
+    color: black !important;
+}
+.nav-link:hover{
+    color:gray !important;
+    transform: scale(1.2);
+}
+.logo{
+    width: 120px;
+    height: 40px;
+    margin-right: 5%;
+}
+.btn-group{
+    width: 300px !important;
+    border-color: black!important;
+    border-color: black!important;
+    padding-right: 5%;
+}
+.btn.btn-dark{
+    background-color: yellow !important;
+    color: black !important;  
+}
+.btn.btn-dark:hover{
+    background-color: black!important;
+    color:yellow!important;
+}
+.btn.btn-outline-dark{
+    background-color: yellow!important;
+    color: black!important;
+   
+}
+.btn.btn-outline-dark:hover{
+    background-color: black!important;
+    color: yellow !important;
+    transform: scale(1.2);
+}
+
+/* home*/ 
+.portada.card.mb-3{
+    background-color: black!important;
+color: white!important;
+}
+h3{
+    color:yellow;
+}
+.text-muted{
+    color: antiquewhite !important;
+}
+.card{
+    background-color: black!important;
+    color:white!important;
+    padding:2%;
+    border-color: yellow!important;
+    justify-content: space-between;
+    margin-top: 1%!important;
+}
+.card-body{
+    background-color: white!important;
+    color: black !important;
+    padding-top: 1%;
+}
+.card-header{
+    background-color: yellow!important;
+    color: black !important;
+}
+
+/* proyects*/ 
+h1{
+    color: yellow !important;
+    padding:1%;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+}
+.container-proyects{
+    padding: 1%;
+}
+
+/*contact*/ 
+.card.mb-3{
+    border-color: black!important;
+}
+.container{
+    color: black !important;
+}
+h2{
+    color:white !important;
+}
+.form-control{
+    background-color: yellow!important;
+}
+.btn.btn-warning{
+    background-color: yellow!important;
+    margin:1%;
+}
+.btn.btn-warning:hover{
+    background-color: gray!important;
+    color: yellow !important;
+    transform: scale(1.2);
+}
+/*skills*/ 
+
+/*footer*/ 
+.nav.justify-content-end{
+    background-color: yellow!important;
+    padding:1%;
+}
+
